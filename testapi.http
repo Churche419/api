@@ -1,0 +1,6 @@
+GET http://localhost/PRODUCTSDATA/get-products.php
+###
+GET http://localhost/PRODUCTDATA/get-orders.php
+###
+POST http://localhost/PRODUCTDATA/post-products.php
+content-type: application/json
